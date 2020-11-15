@@ -1,10 +1,12 @@
 import './styles/App.css'
+import {Fragment} from "react";
+import HomePage from "./pages/HomePage";
 
 function App() {
     return (
-        <div className="App">
-            <h1>yolo</h1>
-        </div>
+        <Fragment>
+            <HomePage/>
+        </Fragment>
     );
 }
 

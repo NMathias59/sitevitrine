@@ -6,7 +6,6 @@ const HomePage = () => {
         <Fragment>
             <Header/>
         </Fragment>
-
     );
 };
 
