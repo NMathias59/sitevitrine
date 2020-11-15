@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/sitevitrine/static/css/main.0d926180.chunk.css",
+    "main.js": "/sitevitrine/static/js/main.1eb9325c.chunk.js",
+    "main.js.map": "/sitevitrine/static/js/main.1eb9325c.chunk.js.map",
+    "runtime-main.js": "/sitevitrine/static/js/runtime-main.32894c10.js",
+    "runtime-main.js.map": "/sitevitrine/static/js/runtime-main.32894c10.js.map",
+    "static/css/2.20aa2d7b.chunk.css": "/sitevitrine/static/css/2.20aa2d7b.chunk.css",
+    "static/js/2.e788882d.chunk.js": "/sitevitrine/static/js/2.e788882d.chunk.js",
+    "static/js/2.e788882d.chunk.js.map": "/sitevitrine/static/js/2.e788882d.chunk.js.map",
+    "static/js/3.368e4a56.chunk.js": "/sitevitrine/static/js/3.368e4a56.chunk.js",
+    "static/js/3.368e4a56.chunk.js.map": "/sitevitrine/static/js/3.368e4a56.chunk.js.map",
+    "index.html": "/sitevitrine/index.html",
+    "static/css/2.20aa2d7b.chunk.css.map": "/sitevitrine/static/css/2.20aa2d7b.chunk.css.map",
+    "static/css/main.0d926180.chunk.css.map": "/sitevitrine/static/css/main.0d926180.chunk.css.map",
+    "static/js/2.e788882d.chunk.js.LICENSE.txt": "/sitevitrine/static/js/2.e788882d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.32894c10.js",
+    "static/css/2.20aa2d7b.chunk.css",
+    "static/js/2.e788882d.chunk.js",
+    "static/css/main.0d926180.chunk.css",
+    "static/js/main.1eb9325c.chunk.js"
+  ]
+}
